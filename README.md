@@ -1,3 +1,3 @@
 # Exchangeagram application backend.
 
-Backend side of Exchangeagram, repo @ '/petarjovanovic23/claimd_task'.
+Backend side of Exchangeagram, repo @ 'https://github.com/petarjovanovic23/claimd-task'.
